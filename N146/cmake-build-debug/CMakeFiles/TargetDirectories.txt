@@ -1,0 +1,3 @@
+/home/sjt758/Coding/leetcode/N146/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/sjt758/Coding/leetcode/N146/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/sjt758/Coding/leetcode/N146/cmake-build-debug/CMakeFiles/N146.dir

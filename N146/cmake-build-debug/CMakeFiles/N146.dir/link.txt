@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/N146.dir/main.cpp.o  -o N146 
